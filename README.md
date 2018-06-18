@@ -3,7 +3,7 @@
 # Pulau Seribu
 
 <h1><strong>Paket Pulau Seribu !!! - http://pesona-pulauseribu.com<strong></h1>
-<p>Hello, These days I will show you <b>wedding dress</d> collection images, that you can use for reference to implement on your wedding ceremonies !</p>
+<p>Hello, Disini saya akan memberikan informasi tentang <b>Pulau Seribu</d> Paket dan Promo, yang dapat membantu anda untuk paket wisata dan dengan harga termurah !</p>
 
 
 <h2><a href="http://pesona-pulauseribu.com" title="Pulau Seribu" target="_blank">Pulau Seribu</a></h2>
@@ -17,6 +17,10 @@
 - <a href="http://pesona-pulauseribu.com" title="Wisata Pulau Seribu Murah" target="_blank">Wisata Pulau Seribu Murah</a><br/>
 
 - <a href="http://pesona-pulauseribu.com" title="Pulau Seribu Resort" target="_blank">Pulau Seribu Resort</a><br/>
+
+- <a href="http://pesona-pulauseribu.com" title="Paket Pulau Seribu Resort" target="_blank">Paket Pulau Seribu Resort</a><br/>
+
+- <a href="http://pesona-pulauseribu.com" title="Paket Pulau Seribu Resort Termurah" target="_blank">Paket Pulau Seribu Resort Termurah</a><br/>
 
 </p>
 
